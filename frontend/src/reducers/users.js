@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-const URL = "https://riddlemaster.herokuapp.com/";
+const URL = "https://riddlemasters.herokuapp.com/";
 
 export const users = createSlice({
   name: "users",
